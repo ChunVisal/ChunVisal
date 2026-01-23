@@ -2,7 +2,7 @@
 ### 🖤 Full Stack Developer & Tech Enthusiast
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=joenarhtan&show_icons=true&theme=tokyonight" />
+   <img src="https://octodex.github.com/images/daftpunktocat.gif" alt="GitHub Octocat" />
 </p>
 
 ## 👨‍💻 About Me
