@@ -1,8 +1,6 @@
 # Hi, I am Chun Visal - ជន វិសាល
 I am building project Full stack Wed Development, Daily day focus on prblem-solving and real world projects
 
-## Tech Stack
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
