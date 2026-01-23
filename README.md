@@ -2,7 +2,7 @@
 ### 🖤 Full Stack Developer & Tech Enthusiast
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Cool Avatar" />
+  <img src="https://github.com/chunvisal.png" alt="GitHub Avatar" />
 </p>
 
 
