@@ -2,7 +2,7 @@
 ### 🖤 Full Stack Developer & Tech Enthusiast
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="150"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="150"/>
 </p>
 
 ## 👨‍💻 About Me
