@@ -1,4 +1,4 @@
-# Hi, I’m Joe Narthan
+# Hi, I’m Chun Visal - ជន វិសាល
 ### 🖤 Full Stack Developer & Tech Enthusiast
 
 <p align="center">
