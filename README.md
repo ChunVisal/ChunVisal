@@ -1,7 +1,9 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
-<div align="center"><img src="https://vexels.com" height="50" width="50" alt="php" /><img src="https://wikimedia.org" height="50" width="50" alt="javascript" /><img src="https://wikimedia.org" height="50" width="50" alt="react" /><img src="https://wikimedia.org" height="50" width="50" alt="vue" /><img src="https://wikimedia.org" height="50" width="50" alt="tailwindcss" /><img src="https://wikimedia.org" height="50" width="50" alt="nodejs" /><img src="https://expressjs.com" height="50" width="50" alt="express" /><img src="https://wikimedia.org" height="50" width="50" alt="laravel" /><img src="https://wikimedia.org" height="50" width="50" alt="firebase" /><img src="https://wikimedia.org" height="50" width="50" alt="mysql" /><img src="https://wikimedia.org" height="50" width="50" alt="git" /></div>
+<div align="center" style="font-size: 0; line-height: 0;">
+  <img src="https://skillicons.dev" height="60" alt="php" /><img src="https://skillicons.dev" height="60" alt="javascript" /><img src="https://skillicons.dev" height="60" alt="react" /><img src="https://skillicons.dev" height="60" alt="vue" /><img src="https://skillicons.dev" height="60" alt="tailwindcss" /><img src="https://skillicons.dev" height="60" alt="nodejs" /><img src="https://skillicons.dev" height="60" alt="express" /><img src="https://skillicons.dev" height="60" alt="laravel" /><img src="https://skillicons.dev" height="60" alt="firebase" /><img src="https://skillicons.dev" height="60" alt="mysql" /><img src="https://skillicons.dev" height="60" alt="git" />
+</div>
 
 <p>&nbsp;</p>
 
