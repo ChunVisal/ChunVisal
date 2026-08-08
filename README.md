@@ -2,8 +2,16 @@
 
 ###
 
-<div align="center"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/[ICON SLUG].svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v16/icons/[ICON SLUG].svg" /></div>
+<div align="center"><img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/gray" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/hotpink" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf9" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/orange/pink" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/_/eee" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/eee/_" /></div>
 
 
 <p>&nbsp;</p>
