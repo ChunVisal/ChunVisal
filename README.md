@@ -2,7 +2,8 @@
 
 ###
 
-<div align="center"><img src="https://skillicons.dev" height="60" alt="php" /><img src="https://skillicons.dev" height="60" alt="javascript" /><img src="https://skillicons.dev" height="60" alt="react" /><img src="https://skillicons.dev" height="60" alt="vue" /><img src="https://skillicons.dev" height="60" alt="tailwindcss" /><img src="https://skillicons.dev" height="60" alt="nodejs" /><img src="https://skillicons.dev" height="60" alt="express" /><img src="https://skillicons.dev" height="60" alt="laravel" /><img src="https://skillicons.dev" height="60" alt="firebase" /><img src="https://skillicons.dev" height="60" alt="mysql" /><img src="https://skillicons.dev" height="60" alt="git" /></div>
+<div align="center"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v16/icons/[ICON SLUG].svg" /></div>
 
 
 <p>&nbsp;</p>
