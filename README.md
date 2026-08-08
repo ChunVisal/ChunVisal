@@ -1,8 +1,7 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
-[`  PHP  `](#)[`   JS   `](#)[` REACT `](#)[`  VUE  `](#)[`TAILWIND`](#)[`NODEJS `](#)[`EXPRESS`](#)[`LARAVEL`](#)[`FIREBASE`](#)[` MYSQL `](#)[`  GIT  `](#)
-
+<div align="center"><img src="https://vexels.com" height="50" width="50" alt="php" /><img src="https://wikimedia.org" height="50" width="50" alt="javascript" /><img src="https://wikimedia.org" height="50" width="50" alt="react" /><img src="https://wikimedia.org" height="50" width="50" alt="vue" /><img src="https://wikimedia.org" height="50" width="50" alt="tailwindcss" /><img src="https://wikimedia.org" height="50" width="50" alt="nodejs" /><img src="https://expressjs.com" height="50" width="50" alt="express" /><img src="https://wikimedia.org" height="50" width="50" alt="laravel" /><img src="https://wikimedia.org" height="50" width="50" alt="firebase" /><img src="https://wikimedia.org" height="50" width="50" alt="mysql" /><img src="https://wikimedia.org" height="50" width="50" alt="git" /></div>
 
 <p>&nbsp;</p>
 
