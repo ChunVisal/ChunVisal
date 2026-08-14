@@ -1,14 +1,5 @@
 <h1 align="center">Hey 👋What's Up?</h1>
-   <td width="33.3%" bgcolor="#161b22" align="center" style="padding: 12px; border: 1px solid #30363d; border-radius: 6px;">
-      <b>🌐 [PORTFOLIO SITE]</b>
-    </td>
-    <td width="33.3%" bgcolor="#161b22" align="center" style="padding: 12px; border: 1px solid #30363d; border-radius: 6px;">
-      <b>💼 [LINKEDIN PROFILE]</b>
-    </td>
-    <td width="33.3%" bgcolor="#161b22" align="center" style="padding: 12px; border: 1px solid #30363d; border-radius: 6px;">
-      <b>📧 [EMAIL CHANNEL]</b>
-    </td>
-###
+
 <div align="center">
 <table>
 <tr>
