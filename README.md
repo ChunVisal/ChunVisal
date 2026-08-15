@@ -24,6 +24,6 @@
 
 <p>&nbsp;</p>
 
-<div  align="center">
+<div  align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=Chun%20Visal&theme=darcula)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Chun%20Visal&theme=darcula" alt="GitHub Streak" /></a>
 </div>
