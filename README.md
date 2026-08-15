@@ -1,8 +1,8 @@
 <h1 align="start">Hey 👋What's Up?</h1>
 
-> I just want **green contributions**.  
-> I just want **consistency**.  
-> I just want **amazing coding**.
+> I just want **green contributions 🟩**.  
+> I just want **consistency 📈**.  
+> I just want **amazing coding 🧑‍💻**.
 
 <div align="center">
 <table>
