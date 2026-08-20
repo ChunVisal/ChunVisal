@@ -7,9 +7,14 @@
 ## Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40">
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="32">
+  <strong>Laravel</strong>
+
+  <img src="https://cdn.simpleicons.org/php/777BB4" width="32">
+  <strong>PHP</strong>
+
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="32">
+  <strong>MySQL</strong>
 </p>
 <div align="center">
 <table>
