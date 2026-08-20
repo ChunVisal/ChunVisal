@@ -4,7 +4,7 @@
 > I just want **consistency 📈**.  
 > I just want **amazing coding 🧑‍💻**.
 
-https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 <div align="center">
 <table>
