@@ -4,7 +4,7 @@
 > I just want **consistency 📈**.  
 > I just want **amazing coding 🧑‍💻**.
 
-![PHP](https://shields.io) ![JavaScript](https://shields.io) ![React](https://shields.io) ![Vue.js](https://shields.io) ![Tailwind CSS](https://shields.io) ![Node.js](https://shields.io) ![Express.js](https://shields.io) ![Laravel](https://shields.io) ![Firebase](https://shields.io) ![MySQL](https://shields.io) ![Git](https://shields.io)
+https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript
 
 <div align="center">
 <table>
