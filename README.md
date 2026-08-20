@@ -4,19 +4,11 @@
 > I just want **consistency 📈**.  
 > I just want **amazing coding 🧑‍💻**.
 
-<p align="left">
-  <img src="https://shields.io" alt="PHP" />
-  <img src="https://shields.io" alt="JS" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Vue" />
-  <img src="https://shields.io" alt="Tailwind" />
-  <img src="https://shields.io" alt="Node" />
-  <img src="https://shields.io" alt="Express" />
-  <img src="https://shields.io" alt="Laravel" />
-  <img src="https://shields.io" alt="Firebase" />
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="Git" />
-</p>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=white)
 
 
 <div align="center">
