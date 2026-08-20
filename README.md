@@ -4,8 +4,7 @@
 > I just want **consistency 📈**.  
 > I just want **amazing coding 🧑‍💻**.
 
-![PHP](https://shields.io)
-![PHP](https://shields.io)
+[![php](https://skillicons.dev)](https://skillicons.dev)
 
 <div align="center">
 <table>
