@@ -4,7 +4,20 @@
 > I just want **consistency 📈**.  
 > I just want **amazing coding 🧑‍💻**.
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+<p align="left">
+  <img src="https://shields.io" alt="PHP" />
+  <img src="https://shields.io" alt="JS" />
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="Vue" />
+  <img src="https://shields.io" alt="Tailwind" />
+  <img src="https://shields.io" alt="Node" />
+  <img src="https://shields.io" alt="Express" />
+  <img src="https://shields.io" alt="Laravel" />
+  <img src="https://shields.io" alt="Firebase" />
+  <img src="https://shields.io" alt="MySQL" />
+  <img src="https://shields.io" alt="Git" />
+</p>
+
 
 <div align="center">
 <table>
