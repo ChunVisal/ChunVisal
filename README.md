@@ -4,7 +4,8 @@
 > I just want **consistency 📈**.  
 > I just want **amazing coding 🧑‍💻**.
 
-[![php](https://skillicons.dev)](https://skillicons.dev)
+![PHP](https://shields.io) ![JavaScript](https://shields.io) ![React](https://shields.io) ![Vue.js](https://shields.io) ![TailwindCSS](https://shields.io) ![Node.js](https://shields.io) ![Express.js](https://shields.io) ![Laravel](https://shields.io) ![Firebase](https://shields.io) ![MySQL](https://shields.io) ![Git](https://shields.io)
+
 
 <div align="center">
 <table>
