@@ -1,4 +1,4 @@
-<h1 align="start">Hey 👋What's Up?</h1>
+<h1 align="start">Aaay Hey, What's Up?</h1>
 
 > I just want **green contributions 🟩**.  
 > I just want **consistency 📈**.  
