@@ -18,7 +18,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-E65100?style=for-the-badge&logo=git&logoColor=white)
 
-<!-- &nbsp;
+&nbsp;
 
 <div  align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Chun%20Visal&theme=darcula" alt="GitHub Streak" /></a>
