@@ -19,6 +19,11 @@
 ![Figma](https://img.shields.io/badge/Figma-E65100?style=for-the-badge&logo=git&logoColor=white)
 
 &nbsp;
-<div  align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Chun%Visal&theme=dracula" alt="GitHub Streak" /></a>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=Chun%Visal&theme=dracula&hide_border=true"
+      alt="GitHub Streak"
+    />
+  </a>
 </div>
