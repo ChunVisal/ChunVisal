@@ -6,10 +6,10 @@
 
 ##
 
-<p>
-  <!-- Custom link added as requested -->
-  <a href="https://chunvisal.pro" style="font-weight: bold; color: #3498db; font-size: 1.2em;" target="_blank">
-    🌐 Visit My Custom Portfolio: chunvisal.pro
+<p style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://chunvisal.pro" style="font-weight: bold; color: #3498db; font-size: 1.2em; display: flex; align-items: center; text-decoration: none;" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web/web-original.svg" alt="Portfolio Icon" style="width: 28px; height: 28px; margin-right: 8px; vertical-align: middle;" />
+    Visit My Custom Portfolio: chunvisal.pro
   </a>
 </p>
 
