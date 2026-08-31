@@ -6,6 +6,13 @@
 
 ##
 
+<p>
+  <!-- Custom link added as requested -->
+  <a href="https://chunvisal.pro" style="font-weight: bold; color: #3498db; font-size: 1.2em;" target="_blank">
+    🌐 Visit My Custom Portfolio: chunvisal.pro
+  </a>
+</p>
+
 ![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Blade](https://img.shields.io/badge/Blade-e6e6e6?style=for-the-badge&logo=laravel&logoColor=ff0000)
